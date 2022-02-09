@@ -84,11 +84,6 @@
         </dependency>
 
 
-
-        <!--配置ApiModel在实体类中不生效-->
-        <!--配置ApiModel在实体类中不生效-->
-
-
     </dependencies>
 
     <dependencyManagement>
