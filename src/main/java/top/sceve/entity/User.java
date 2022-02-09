@@ -19,6 +19,7 @@ import lombok.NoArgsConstructor;
  *
  * @author LeeSen
  * @since 2022-02-09
+ *
  */
 @Data
 @EqualsAndHashCode(callSuper = false)
